@@ -10,6 +10,11 @@
 https://www.youtube.com/watch?v=ZZ5M7Q5ZWX4&feature=youtu.be&ab_channel=CoolooAI
 
 
+<a href='https://www.youtube.com/watch?v=ZZ5M7Q5ZWX4&feature=youtu.be&ab_channel=CoolooAI' target="_blank">
+<img alt="" src="./image2.jpg" width="800" />
+</a>
+
+
 <br />
 <br />
 
